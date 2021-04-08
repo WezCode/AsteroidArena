@@ -1,2 +1,27 @@
-﻿  main.cpp
-  i3d.vcxproj -> C:\Uni\I3DG&A\BACKUPS\1\i3d_visualstudio\Ass1\i3d64dbg.exe
+﻿  Arena.cpp
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\GameEngine.h(12,2): warning C4091: 'typedef ': ignored on left of 'Color' when no variable is declared
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\Arena.cpp(7,22): warning C4305: '=': truncation from 'double' to 'float'
+  GameEngine.cpp
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\GameEngine.h(12,2): warning C4091: 'typedef ': ignored on left of 'Color' when no variable is declared
+  Ship.cpp
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\Ship.cpp(22,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\Ship.cpp(27,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\Ship.cpp(28,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\Ship.cpp(37,13): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\Ship.cpp(41,13): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\GameEngine.h(12,2): warning C4091: 'typedef ': ignored on left of 'Color' when no variable is declared
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\main.cpp(36,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\main.cpp(36,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\main.cpp(36,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\main.cpp(61,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\main.cpp(87,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\main.cpp(97,87): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\main.cpp(97,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\main.cpp(128,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\main.cpp(197,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\main.cpp(201,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\main.cpp(213,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\src\main.cpp(221,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  i3d.vcxproj -> C:\Uni\Y4 SEM 1\I3DG&A\AsteroidArena\i3d64dbg.exe

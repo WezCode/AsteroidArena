@@ -154,11 +154,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\src\GameEngine.cpp" />
+    <ClCompile Include="..\src\Input.cpp" />
     <ClCompile Include="..\src\main.cpp" />
-    <ClCompile Include="setup.cpp" />
+    <ClCompile Include="..\src\Ship.cpp" />
+    <ClCompile Include="..\src\Arena.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="setup.h" />
+    <ClInclude Include="..\src\GameEngine.h" />
+    <ClInclude Include="..\src\Arena.h" />
+    <ClInclude Include="..\src\Input.h" />
+    <ClInclude Include="..\src\Ship.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
